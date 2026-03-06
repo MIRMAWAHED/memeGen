@@ -1,0 +1,5 @@
+Reddit Meme Intelligence Demo
+
+This project collects publicly available meme posts and top comments from Reddit using the official Reddit API. The goal is to analyze meme trends, engagement signals, and sentiment patterns for research and demonstration purposes.
+
+The application operates in read-only mode and respects Reddit API rate limits.
